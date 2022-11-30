@@ -3,8 +3,14 @@
 ##Project Goal
 
  -There are three challenges in this project.We are going to write a code in each challenge to help obtain the required result.
+ 
+ 
  -Create a repository on your GitHub account.
+ 
+ 
  -Use Javascript to wire down the solution.
+ 
+ 
  -Push the solution to the above repository once done.
  -Ensure your repository has a well written README.
  
